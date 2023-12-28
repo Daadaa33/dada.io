@@ -10,7 +10,7 @@ import Tags from "@/components/Tags";
 import Link from "@/components/ui/Link";
 import { formatDate } from "lib/formatdate";
 
-import Avatar from "@/public/avatar.png";
+import Avatar from "@/public/avatar.jpg";
 
 type PostProps = {
   post: PostType;

@@ -1,7 +1,7 @@
 import Image from "next/image";
 import type { Metadata } from "next";
 
-import avatar from "public/avatar.png";
+import avatar from "public/avatar.jpg";
 import map from "public/map.png";
 import { FaYoutube } from "react-icons/fa";
 
@@ -9,7 +9,7 @@ import { YouTube } from "@/components/Stats";
 import Link from "@/components/ui/Link";
 
 export const metadata: Metadata = {
-  title: "Mediakit | Brian Ruiz",
+  title: "Mediakit | Abdikadir Qulle",
   description:
     "Creator based in Houston. Focuses on topics including consumer technology, software engineering, design, and lifestyle.",
 };
